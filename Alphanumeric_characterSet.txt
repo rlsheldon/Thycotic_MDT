@@ -1,0 +1,4 @@
+Alphanumeric 	
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890 	
+a-z,A-Z,0-9 	
+Letters and numbers
