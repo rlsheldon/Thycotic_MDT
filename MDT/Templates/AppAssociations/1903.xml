@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DefaultAssociations>
+  <Association Identifier=".3g2" ProgId="WMP11.AssocFile.3G2" ApplicationName="Windows Media Player" />
+  <Association Identifier=".3gp" ProgId="WMP11.AssocFile.3GP" ApplicationName="Windows Media Player" />
+  <Association Identifier=".3gp2" ProgId="WMP11.AssocFile.3G2" ApplicationName="Windows Media Player" />
+  <Association Identifier=".3gpp" ProgId="WMP11.AssocFile.3GP" ApplicationName="Windows Media Player" />
+  <Association Identifier=".3mf" ProgId="AppXcdh38jxzbcberv50vxg2tg4k84kfnewn" ApplicationName="Paint 3D" />
+  <Association Identifier=".aac" ProgId="WMP11.AssocFile.ADTS" ApplicationName="Windows Media Player" />
+  <Association Identifier=".acrobatsecuritysettings" ProgId="Applications\AcroRd32.exe" ApplicationName="Adobe Acrobat Reader DC" />
+  <Association Identifier=".adt" ProgId="WMP11.AssocFile.ADTS" ApplicationName="Windows Media Player" />
+  <Association Identifier=".adts" ProgId="WMP11.AssocFile.ADTS" ApplicationName="Windows Media Player" />
+  <Association Identifier=".aif" ProgId="WMP11.AssocFile.AIFF" ApplicationName="Windows Media Player" />
+  <Association Identifier=".aifc" ProgId="WMP11.AssocFile.AIFF" ApplicationName="Windows Media Player" />
+  <Association Identifier=".aiff" ProgId="WMP11.AssocFile.AIFF" ApplicationName="Windows Media Player" />
+  <Association Identifier=".arw" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".asf" ProgId="WMP11.AssocFile.ASF" ApplicationName="Windows Media Player" />
+  <Association Identifier=".asx" ProgId="WMP11.AssocFile.ASX" ApplicationName="Windows Media Player" />
+  <Association Identifier=".au" ProgId="WMP11.AssocFile.AU" ApplicationName="Windows Media Player" />
+  <Association Identifier=".avci" ProgId="PBrush" ApplicationName="Paint" />
+  <Association Identifier=".avi" ProgId="WMP11.AssocFile.AVI" ApplicationName="Windows Media Player" />
+  <Association Identifier=".avif" ProgId="PBrush" ApplicationName="Paint" />
+  <Association Identifier=".bmp" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".cda" ProgId="WMP11.AssocFile.CDA" ApplicationName="Windows Media Player" />
+  <Association Identifier=".cr2" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".crw" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".dib" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".epub" ProgId="AppXvepbp3z66accmsd0x877zbbxjctkpr6t" ApplicationName="Microsoft Edge" />
+  <Association Identifier=".erf" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".flac" ProgId="WMP11.AssocFile.FLAC" ApplicationName="Windows Media Player" />
+  <Association Identifier=".gif" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".heif" ProgId="PBrush" ApplicationName="Paint" />
+  <Association Identifier=".htm" ProgId="ChromeHTML" ApplicationName="Google Chrome" />
+  <Association Identifier=".html" ProgId="ChromeHTML" ApplicationName="Google Chrome" />
+  <Association Identifier=".jfif" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".jpe" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".jpeg" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".jpg" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".jxr" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".kdc" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".m1v" ProgId="WMP11.AssocFile.MPEG" ApplicationName="Windows Media Player" />
+  <Association Identifier=".m2t" ProgId="WMP11.AssocFile.M2TS" ApplicationName="Windows Media Player" />
+  <Association Identifier=".m2ts" ProgId="WMP11.AssocFile.M2TS" ApplicationName="Windows Media Player" />
+  <Association Identifier=".m3u" ProgId="WMP11.AssocFile.m3u" ApplicationName="Windows Media Player" />
+  <Association Identifier=".m4a" ProgId="WMP11.AssocFile.M4A" ApplicationName="Windows Media Player" />
+  <Association Identifier=".m4v" ProgId="WMP11.AssocFile.MP4" ApplicationName="Windows Media Player" />
+  <Association Identifier=".mid" ProgId="WMP11.AssocFile.MIDI" ApplicationName="Windows Media Player" />
+  <Association Identifier=".midi" ProgId="WMP11.AssocFile.MIDI" ApplicationName="Windows Media Player" />
+  <Association Identifier=".mk3d" ProgId="WMP11.AssocFile.MK3D" ApplicationName="Windows Media Player" />
+  <Association Identifier=".mka" ProgId="WMP11.AssocFile.MKA" ApplicationName="Windows Media Player" />
+  <Association Identifier=".mkv" ProgId="WMP11.AssocFile.MKV" ApplicationName="Windows Media Player" />
+  <Association Identifier=".mod" ProgId="WMP11.AssocFile.MPEG" ApplicationName="Windows Media Player" />
+  <Association Identifier=".mov" ProgId="WMP11.AssocFile.MOV" ApplicationName="Windows Media Player" />
+  <Association Identifier=".MP2" ProgId="WMP11.AssocFile.MP3" ApplicationName="Windows Media Player" />
+  <Association Identifier=".mp2v" ProgId="WMP11.AssocFile.MPEG" ApplicationName="Windows Media Player" />
+  <Association Identifier=".mp3" ProgId="WMP11.AssocFile.MP3" ApplicationName="Windows Media Player" />
+  <Association Identifier=".mp4" ProgId="WMP11.AssocFile.MP4" ApplicationName="Windows Media Player" />
+  <Association Identifier=".mp4v" ProgId="WMP11.AssocFile.MP4" ApplicationName="Windows Media Player" />
+  <Association Identifier=".mpa" ProgId="WMP11.AssocFile.MPEG" ApplicationName="Windows Media Player" />
+  <Association Identifier=".MPE" ProgId="WMP11.AssocFile.MPEG" ApplicationName="Windows Media Player" />
+  <Association Identifier=".mpeg" ProgId="WMP11.AssocFile.MPEG" ApplicationName="Windows Media Player" />
+  <Association Identifier=".mpg" ProgId="WMP11.AssocFile.MPEG" ApplicationName="Windows Media Player" />
+  <Association Identifier=".mpv2" ProgId="WMP11.AssocFile.MPEG" ApplicationName="Windows Media Player" />
+  <Association Identifier=".mrw" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".mts" ProgId="WMP11.AssocFile.M2TS" ApplicationName="Windows Media Player" />
+  <Association Identifier=".nef" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".nrw" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".obj" ProgId="AppXcdh38jxzbcberv50vxg2tg4k84kfnewn" ApplicationName="Paint 3D" />
+  <Association Identifier=".orf" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".pdf" ProgId="AcroExch.Document.DC" ApplicationName="Adobe Acrobat Reader DC" />
+  <Association Identifier=".pdfxml" ProgId="Applications\AcroRd32.exe" ApplicationName="Adobe Acrobat Reader DC" />
+  <Association Identifier=".pef" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".ply" ProgId="AppXcdh38jxzbcberv50vxg2tg4k84kfnewn" ApplicationName="Paint 3D" />
+  <Association Identifier=".png" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".raf" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".raw" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".rmi" ProgId="WMP11.AssocFile.MIDI" ApplicationName="Windows Media Player" />
+  <Association Identifier=".rw2" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".rwl" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".snd" ProgId="WMP11.AssocFile.AU" ApplicationName="Windows Media Player" />
+  <Association Identifier=".sr2" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".srw" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".stl" ProgId="AppXcdh38jxzbcberv50vxg2tg4k84kfnewn" ApplicationName="Paint 3D" />
+  <Association Identifier=".svg" ProgId="ChromeHTML" ApplicationName="Google Chrome" />
+  <Association Identifier=".tif" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".tiff" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".TS" ProgId="WMP11.AssocFile.TTS" ApplicationName="Windows Media Player" />
+  <Association Identifier=".TTS" ProgId="WMP11.AssocFile.TTS" ApplicationName="Windows Media Player" />
+  <Association Identifier=".txt" ProgId="txtfile" ApplicationName="Notepad" />
+  <Association Identifier=".url" ProgId="IE.AssocFile.URL" ApplicationName="Internet Browser" />
+  <Association Identifier=".wav" ProgId="WMP11.AssocFile.WAV" ApplicationName="Windows Media Player" />
+  <Association Identifier=".wax" ProgId="WMP11.AssocFile.WAX" ApplicationName="Windows Media Player" />
+  <Association Identifier=".wdp" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".website" ProgId="IE.AssocFile.WEBSITE" ApplicationName="Internet Explorer" />
+  <Association Identifier=".wm" ProgId="WMP11.AssocFile.ASF" ApplicationName="Windows Media Player" />
+  <Association Identifier=".wma" ProgId="WMP11.AssocFile.WMA" ApplicationName="Windows Media Player" />
+  <Association Identifier=".wmv" ProgId="WMP11.AssocFile.WMV" ApplicationName="Windows Media Player" />
+  <Association Identifier=".wmx" ProgId="WMP11.AssocFile.ASX" ApplicationName="Windows Media Player" />
+  <Association Identifier=".WPL" ProgId="WMP11.AssocFile.WPL" ApplicationName="Windows Media Player" />
+  <Association Identifier=".wvx" ProgId="WMP11.AssocFile.WVX" ApplicationName="Windows Media Player" />
+  <Association Identifier=".xht" ProgId="ChromeHTML" ApplicationName="Google Chrome" />
+  <Association Identifier=".xhtml" ProgId="ChromeHTML" ApplicationName="Google Chrome" />
+  <Association Identifier="bingmaps" ProgId="AppXp9gkwccvk6fa6yyfq3tmsk8ws2nprk1p" ApplicationName="Maps" />
+  <Association Identifier="FTP" ProgId="ChromeHTML" ApplicationName="Google Chrome" />
+  <Association Identifier="http" ProgId="ChromeHTML" ApplicationName="Google Chrome" />
+  <Association Identifier="https" ProgId="ChromeHTML" ApplicationName="Google Chrome" />
+  <Association Identifier="mailto" ProgId="Outlook.URL.mailto.15" ApplicationName="Outlook" />
+  <Association Identifier="microsoft-edge" ProgId="AppX7rm9drdg8sk7vqndwj3sdjw11x96jc0y" ApplicationName="Microsoft Edge" />
+  <Association Identifier="microsoft-edge-holographic" ProgId="AppX3xxs313wwkfjhythsb8q46xdsq8d2cvv" ApplicationName="Microsoft Edge" />
+  <Association Identifier="MMS" ProgId="WMP11.AssocProtocol.MMS" ApplicationName="Windows Media Player" />
+  <Association Identifier="ms-xbl-3d8b930f" ProgId="AppXdn5b0j699ka5fqvrr3pgjad0evqarm6d" ApplicationName="Microsoft Edge" />
+</DefaultAssociations>
