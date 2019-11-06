@@ -15,7 +15,7 @@ $UpdaterName    = Get-ChildItem -File -Name -Filter *.exe -Path $BiosPath
 $UpdaterPath    = "$BiosPath" + "\" + "$UpdaterName"
 $ToolsPath      = $TSEnv.Value('DeployRoot') + "\Tools\x64"
 $SerialNumber   = $TSEnv.Value('SerialNumber')
-$LoggingPath    = $TSEnv.Value('_SMSTSLogPath')
+$LoggingPath    = $TSEnv.Value('X:\MININT\SMSOSD\OSDLOGS')
 $LoggingPath    = $LoggingPath + "\" + $SerialNumber + "_BIOSUpdate.log"
 
 switch($IsLaptop){
