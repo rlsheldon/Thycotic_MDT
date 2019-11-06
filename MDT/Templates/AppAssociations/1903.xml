@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!--
+  This example sets all built-in applications to the default with the following exceptions:
+  -Adobe Reader is installed and giving its defaults
+  -Microsoft Office 365 is installed and given its defaults
+  -Google Chrome is installed and made the preferred browser
+-->
 <DefaultAssociations>
   <Association Identifier=".3g2" ProgId="WMP11.AssocFile.3G2" ApplicationName="Windows Media Player" />
   <Association Identifier=".3gp" ProgId="WMP11.AssocFile.3GP" ApplicationName="Windows Media Player" />
